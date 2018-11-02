@@ -21,6 +21,23 @@ gives you the following features:
 - unit and integrating testing starting points
 - documentation about other advanced patterns.
 
+## Install, Build, and Run Instructions
+
+- To install:
+```
+npm install
+```
+
+- To build (reference scripts in package.json):
+```
+npm run build
+```
+
+- To run:
+```
+npm run start
+```
+
 ### 📖 Head over to the [documentation site](https://polymer.github.io/pwa-starter-kit/) for more details or check out [how to get started](https://polymer.github.io/pwa-starter-kit/setup/)!
 
 ![pwa-starter-kit screenshot](https://user-images.githubusercontent.com/1369170/39715580-a1be5126-51e2-11e8-8440-96b07be03a3c.png)
